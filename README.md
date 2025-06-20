@@ -23,9 +23,8 @@
     <!-- Bio Section -->
     <section id="about">
         <h2>About Me</h2>
-        <img src="Entrhttps://www.facebook.com/share/1Eksymz9Ys/?mibextid=qi2Omg" alt="Profile Picture">
-        <p>I am an Entrepreneur and I'm a passionate individual who loves learning new things and meeting new people. I
-            enjoy spending
+      
+        <p>I am an Entrepreneur and I'm a passionate individual who loves learning new things and meeting new people. I enjoy spending
             time on creative projects and exploring different hobbies.</p>
     </section>
 
